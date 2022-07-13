@@ -1,0 +1,14 @@
+.navbarHeader{
+    margin: 0px;
+   
+    width: 100%;
+    box-shadow: 2px 8px 28px -3px rgba(20,20,20,0.75);
+-webkit-box-shadow: 2px 8px 28px -3px rgba(20,20,20,0.75);
+-moz-box-shadow: 2px 8px 28px -3px rgba(20,20,20,0.75);
+padding-bottom: 3vh;
+position:fixed;
+z-index: 10000;
+background: rgb(154,19,140);
+    background: linear-gradient(90deg, rgba(154,19,140,0.9668242296918768) 22%, rgba(88,9,121,0.9752275910364145) 48%, rgba(0,212,255,1) 100%);
+
+}
